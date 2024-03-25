@@ -1,0 +1,764 @@
+{
+    "east_blue": [
+        {
+            "a": "luffy",
+            "b": "alvida",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "morgan",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "buggy",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "cabaji",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "kuro",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "sham",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "buchi",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "don krieg",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "pearl",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "gin",
+            "winner": "draw"
+        },
+        {
+            "a": "zoro",
+            "b": "mihawk",
+            "winner": "b"
+        },
+        {
+            "a": "luffy",
+            "b": "arlong",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "hatchan",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "kuroobi",
+            "winner": "a"
+        },
+        {
+            "a": "usopp",
+            "b": "chew",
+            "winner": "a"
+        }
+    ],
+    "arabasta": [
+        {
+            "a": "zoro",
+            "b": "mr. 1",
+            "winner": "a"
+        },
+        {
+            "a": "nami",
+            "b": "miss doublefinger",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "mr. 2",
+            "winner": "a"
+        },
+        {
+            "a": "usopp",
+            "b": "mr. 4",
+            "winner": "a"
+        },
+        {
+            "a": "chopper",
+            "b": "mr. 4",
+            "winner": "a"
+        },
+        {
+            "a": "usopp",
+            "b": "miss merry christmas",
+            "winner": "a"
+        },
+        {
+            "a": "chopper",
+            "b": "miss merry christmas",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "crocodile",
+            "winner": "a"
+        }
+    ],
+    "sky_island": [
+        {
+            "a": "luffy",
+            "b": "bellamy",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "ohm",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "satori",
+            "winner": "a"
+        },
+        {
+            "a": "chopper",
+            "b": "gedatsu",
+            "winner": "a"
+        },
+        {
+            "a": "wyper",
+            "b": "shura",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "braham",
+            "winner": "a"
+        },
+        {
+            "a": "nami",
+            "b": "hotori",
+            "winner": "a"
+        },
+        {
+            "a": "nami",
+            "b": "kotori",
+            "winner": "a"
+        },
+        {
+            "a": "gan fall",
+            "b": "shura",
+            "winner": "b"
+        },
+        {
+            "a": "gan fall",
+            "b": "kotori",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "enel",
+            "winner": "b"
+        },
+        {
+            "a": "usopp",
+            "b": "enel",
+            "winner": "b"
+        },
+        {
+            "a": "wyper",
+            "b": "enel",
+            "winner": "b"
+        },
+        {
+            "a": "robin",
+            "b": "yama",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "enel",
+            "winner": "a"
+        }
+    ],
+    "water_seven": [
+        {
+            "a": "franky",
+            "b": "usopp",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "usopp",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "foxy",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "wanze",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "kaku",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "blueno",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "jabra",
+            "winner": "a"
+        },
+        {
+            "a": "sogeking",
+            "b": "jabra",
+            "winner": "b"
+        },
+        {
+            "a": "nami",
+            "b": "kumadori",
+            "winner": "draw"
+        },
+        {
+            "a": "nami",
+            "b": "kalifa",
+            "winner": "a"
+        },
+        {
+            "a": "franky",
+            "b": "nero",
+            "winner": "a"
+        },
+        {
+            "a": "franky",
+            "b": "fukurou",
+            "winner": "a"
+        },
+        {
+            "a": "chopper",
+            "b": "kumadori",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "rob lucci",
+            "winner": "a"
+        },
+        {
+            "a": "ace",
+            "b": "blackbeard",
+            "winner": "draw"
+        }
+    ],
+    "thriller_bark": [
+        {
+            "a": "franky",
+            "b": "tararan",
+            "winner": "a"
+        },
+        {
+            "a": "usopp",
+            "b": "perona",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "absalom",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "ryuma",
+            "winner": "a"
+        },
+        {
+            "a": "chopper",
+            "b": "hogback",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "gecko moria",
+            "winner": "a"
+        }
+    ],
+    "summit_war": [
+        {
+            "a": "luffy",
+            "b": "magellan",
+            "winner": "b"
+        },
+        {
+            "a": "luffy",
+            "b": "mihawk",
+            "winner": "draw"
+        },
+        {
+            "a": "luffy",
+            "b": "kizaru",
+            "winner": "draw"
+        },
+        {
+            "a": "luffy",
+            "b": "aokiji",
+            "winner": "b"
+        },
+        {
+            "a": "luffy",
+            "b": "koby",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "garp",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "blackbeard",
+            "winner": "b"
+        },
+        {
+            "a": "whitebeard",
+            "b": "aokiji",
+            "winner": "a"
+        },
+        {
+            "a": "whitebeard",
+            "b": "john giant",
+            "winner": "a"
+        },
+        {
+            "a": "whitebeard",
+            "b": "akainu",
+            "winner": "a"
+        },
+        {
+            "a": "whitebeard",
+            "b": "blackbeard",
+            "winner": "b"
+        },
+        {
+            "a": "marco",
+            "b": "kizaru",
+            "winner": "draw"
+        },
+        {
+            "a": "marco",
+            "b": "onigumo",
+            "winner": "b"
+        },
+        {
+            "a": "jozu",
+            "b": "aokiji",
+            "winner": "b"
+        },
+        {
+            "a": "buggy",
+            "b": "mihawk",
+            "winner": "b"
+        },
+        {
+            "a": "hancock",
+            "b": "smoker",
+            "winner": "a"
+        },
+        {
+            "a": "ivankov",
+            "b": "kuma",
+            "winner": "draw"
+        },
+        {
+            "a": "crocodile",
+            "b": "doflamingo",
+            "winner": "draw"
+        },
+        {
+            "a": "moria",
+            "b": "jinbe",
+            "winner": "b"
+        },
+        {
+            "a": "sengoku",
+            "b": "blackbeard",
+            "winner": "draw"
+        }
+    ],
+    "fish_man_island": [
+        {
+            "a": "luffy",
+            "b": "hammond",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "surume",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "vander decken ix",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "hody jones",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "jinbe",
+            "winner": "draw"
+        },
+        {
+            "a": "luffy",
+            "b": "hody jones",
+            "winner": "a"
+        },
+        {
+            "a": "franky",
+            "b": "ikaros much",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "hyouzou",
+            "winner": "a"
+        },
+        {
+            "a": "brook",
+            "b": "zeo",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "wadatsumi",
+            "winner": "a"
+        },
+        {
+            "a": "chopper",
+            "b": "dosun",
+            "winner": "a"
+        },
+        {
+            "a": "robin",
+            "b": "hammond",
+            "winner": "a"
+        },
+        {
+            "a": "usopp",
+            "b": "daruma",
+            "winner": "a"
+        },
+        {
+            "a": "jinbe",
+            "b": "wadatsumi",
+            "winner": "a"
+        },
+        {
+            "a": "caribou",
+            "b": "pekoms",
+            "winner": "b"
+        }
+    ],
+    "dressrosa": [
+        {
+            "a": "law",
+            "b": "doflamingo",
+            "winner": "b"
+        },
+        {
+            "a": "luffy",
+            "b": "bellamy",
+            "winner": "a"
+        },
+        {
+            "a": "senor pink",
+            "b": "franky",
+            "winner": "a"
+        },
+        {
+            "a": "zoro",
+            "b": "pica",
+            "winner": "a"
+        },
+        {
+            "a": "sabo",
+            "b": "jesus burgess",
+            "winner": "a"
+        },
+        {
+            "a": "sai",
+            "b": "lao g",
+            "winner": "a"
+        },
+        {
+            "a": "bartolomeo",
+            "b": "gladius",
+            "winner": "a"
+        },
+        {
+            "a": "cavendish",
+            "b": "dellinger",
+            "winner": "a"
+        },
+        {
+            "a": "kyros",
+            "b": "diamante",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "doflamingo",
+            "winner": "a"
+        }
+    ],
+    "whole_cake_island": [
+        {
+            "a": "sanji",
+            "b": "yonji",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "judge",
+            "winner": "b"
+        },
+        {
+            "a": "cracker",
+            "b": "luffy",
+            "winner": "b"
+        },
+        {
+            "a": "carrot",
+            "b": "randolph",
+            "winner": "a"
+        },
+        {
+            "a": "carrot",
+            "b": "daifuku",
+            "winner": "b"
+        },
+        {
+            "a": "luffy",
+            "b": "sanji",
+            "winner": "a"
+        },
+        {
+            "a": "brook",
+            "b": "big mom",
+            "winner": "b"
+        },
+        {
+            "a": "pedro",
+            "b": "tamago",
+            "winner": "draw"
+        },
+        {
+            "a": "katakuri",
+            "b": "luffy",
+            "winner": "b"
+        },
+        {
+            "a": "sanji",
+            "b": "daifuku",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "oven",
+            "winner": "a"
+        }
+    ],
+    "wano_country": [
+        {
+            "a": "zoro",
+            "b": "killer",
+            "winner": "draw"
+        },
+        {
+            "a": "kid",
+            "b": "apoo",
+            "winner": "a"
+        },
+        {
+            "a": "marco",
+            "b": "king",
+            "winner": "draw"
+        },
+        {
+            "a": "marco",
+            "b": "queen",
+            "winner": "draw"
+        },
+        {
+            "a": "apoo",
+            "b": "drake",
+            "winner": "draw"
+        },
+        {
+            "a": "yamato",
+            "b": "ulti",
+            "winner": "a"
+        },
+        {
+            "a": "nami",
+            "b": "ulti",
+            "winner": "a"
+        },
+        {
+            "a": "jinbe",
+            "b": "who's-who",
+            "winner": "a"
+        },
+        {
+            "a": "robin",
+            "b": "black maria",
+            "winner": "a"
+        },
+        {
+            "a": "sanji",
+            "b": "queen",
+            "winner": "a"
+        },
+        {
+            "a": "killer",
+            "b": "hawkins",
+            "winner": "a"
+        },
+        {
+            "a": "kid",
+            "b": "big mom",
+            "winner": "draw"
+        },
+        {
+            "a": "law",
+            "b": "big mom",
+            "winner": "draw"
+        },
+        {
+            "a": "franky",
+            "b": "sasaki",
+            "winner": "a"
+        },
+        {
+            "a": "inuarashi",
+            "b": "jack",
+            "winner": "a"
+        },
+        {
+            "a": "nekomamushi",
+            "b": "perospero",
+            "winner": "a"
+        },
+        {
+            "a": "raizo",
+            "b": "fukurokuju",
+            "winner": "a"
+        },
+        {
+            "a": "kikunojo",
+            "b": "kanjuro",
+            "winner": "a"
+        },
+        {
+            "a": "yamato",
+            "b": "kaidou",
+            "winner": "draw"
+        },
+        {
+            "a": "zoro",
+            "b": "king",
+            "winner": "a"
+        },
+        {
+            "a": "denjiro",
+            "b": "orochi",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "kaidou",
+            "winner": "a"
+        }
+    ],
+    "final": [
+        {
+            "a": "zoro",
+            "b": "kaku",
+            "winner": "draw"
+        },
+        {
+            "a": "sanji",
+            "b": "s-shark",
+            "winner": "a"
+        },
+        {
+            "a": "luffy",
+            "b": "rob lucci",
+            "winner": "a"
+        },
+        {
+            "a": "law",
+            "b": "blackbeard",
+            "winner": "b"
+        },
+        {
+            "a": "garp",
+            "b": "kuzan",
+            "winner": "draw"
+        },
+        {
+            "a": "garp",
+            "b": "shiryu",
+            "winner": "a"
+        },
+        {
+            "a": "kizaru",
+            "b": "sentomaru",
+            "winner": "a"
+        },
+        {
+            "a": "stussy",
+            "b": "rob lucci",
+            "winner": "a"
+        },
+        {
+            "a": "kid",
+            "b": "shanks",
+            "winner": "b"
+        },
+        {
+            "a": "luffy",
+            "b": "kizaru",
+            "winner": "draw"
+        },
+        {
+            "a": "zoro",
+            "b": "rob lucci",
+            "winner": "draw"
+        }
+    ]
+}
